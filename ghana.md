@@ -9,6 +9,8 @@ theme: crssrds
 
 ## This is an example slide deck.
 
+![](/images/profile.jpg)
+
 See...
 
 - [Marp](https://marp.app/)
