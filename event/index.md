@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: crssrds
 ---
 
 # ガーナへ行ってきました
