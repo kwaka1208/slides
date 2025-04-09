@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: theme/crssrds
+theme: crssrds
 ---
 
 # Slide 1 <!-- fit -->
