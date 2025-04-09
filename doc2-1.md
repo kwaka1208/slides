@@ -1,9 +1,16 @@
 ---
 marp: true
 theme: crssrds
+title: テクニカルドキュメンテーションII
+author: Kenichi Wakabayashi
+date: 2025.04.11
+footer: "CC-BY-SA crssrds.jp"
 ---
 
 # テクニカルドキュメンテーションII <!-- fit -->
+## 3つのC
+
+2025.04.11 Kenichi Wakabayashi
 
 ---
 
@@ -24,10 +31,8 @@ theme: crssrds
 
 英語では語順や構文が意味に直結するため、単語の位置を間違えると、意図した内容と異なる解釈をされかねません。したがって、正しい英語表現を使用することが、文章全体の信頼性を高めるうえで必須です。
 
-```
 ✕ The memory module is large capacity.
 〇 The memory module has a large capacity.
-```
 
 ---
 
@@ -37,11 +42,9 @@ theme: crssrds
 
 誰が読んでも同じ意味に理解できるように書かねばなりません。特に「sufficiently（十分に）」のような曖昧な表現では、読み手が混乱する原因になります。
 
-```
 ✕ Heat the structure sufficiently.
 〇 Heat the structure for 5 minutes.
 〇 Heat the structure to 100℃.
-```
 
 ---
 
