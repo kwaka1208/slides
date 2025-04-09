@@ -9,7 +9,7 @@ theme: crssrds
 
 ## This is an example slide deck.
 
-![](./images/profile.jpg)
+![w:300](images/profile.jpg)
 
 See...
 
