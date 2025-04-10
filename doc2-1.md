@@ -6,6 +6,9 @@ author: Kenichi Wakabayashi
 date: 2025.04.11
 footer: "CC-BY-SA crssrds.jp"
 ---
+<!--
+class: cover
+-->
 
 # テクニカルドキュメンテーションII <!-- fit -->
 ## 3つのC
@@ -13,9 +16,12 @@ footer: "CC-BY-SA crssrds.jp"
 2025.04.11 Kenichi Wakabayashi
 
 ---
+<!--
+class: body
+-->
 
 ## 3つのC
-読みてに伝わるように書くための3つの要素
+読み手に伝わるように書くための3つの要素
 
 - Coorect（正確に）
 - Clear （明確に）
@@ -25,22 +31,35 @@ footer: "CC-BY-SA crssrds.jp"
 
 ## Correct（正確に）
 
-「正確に書く」ことは3つのCの中でも最も重要です。
+「正確に書く」ことは3つのCの中でも最も重要。
 
-技術系英文の目的は、対象となる読み手に内容を正しく伝えることにあります。正確でなければ、誤解が生じ、大きな損失や事故に繋がる可能性もあります。たとえば、単位の誤記や手順の誤りによって意図しない結果が生まれる恐れがあります。
+- 対象となる読み手に内容を正しく伝えること
+- 正確でなければ、誤解が生じ、大きな損失や事故に繋がる
+- 単位の誤記や手順の誤りによって意図しない結果が生まれる
+- 場合によっては誤って伝わる場合もある
 
-英語では語順や構文が意味に直結するため、単語の位置を間違えると、意図した内容と異なる解釈をされかねません。したがって、正しい英語表現を使用することが、文章全体の信頼性を高めるうえで必須です。
+日本語でも英語でも語順や構文が意味に直結するため、単語の位置を間違えると、意図した内容と異なる解釈をされかねません。正しい表現を使用することが、文章全体の信頼性を高めるうえで必須です。
 
-✕ The memory module is large capacity.
-〇 The memory module has a large capacity.
+---
+
+## Correctの例
+
+メモリモジュールは大きいです : The memory module is large.
+メモリモジュールの容量は大きいです : The capacity of memory module is large.
 
 ---
 
 ## Clear（明確に）
 
-「明確に書く」ことは、正確さを担保するうえでも重要です。
+「明確に書く」ことは、正確さを担保します
 
-誰が読んでも同じ意味に理解できるように書かねばなりません。特に「sufficiently（十分に）」のような曖昧な表現では、読み手が混乱する原因になります。
+- 誰が読んでも同じ意味に理解できるように
+- あいまいな表現を避ける
+- 読み手の知識レベルに合わせて、必要な情報を提供する
+
+---
+
+## Clearの例
 
 ✕ Heat the structure sufficiently.
 〇 Heat the structure for 5 minutes.
@@ -50,9 +69,18 @@ footer: "CC-BY-SA crssrds.jp"
 
 ## Concise（簡潔に）
 
-「簡潔に書く」ことは、明確さや正確さを高めるためにも重要です。
+「簡潔に書く」ことは、明確さや正確さを高めます
 
-やさしく短く表現することで、誤りも起こりにくくなります。日本語由来の長く複雑な英語表現に引きずられると、読みにくくなり、技術的内容の理解が困難になる恐れがあります。
+- やさしく短く表現することで、誤りが起こりにくくなる
+- かといって、言葉を削りすぎるのもよくない
+- ひとつのセンテンスを短くまとめる
+- 単調になりがちなので、リズムには注意する
 
-✕ The following gives a brief description of the motherboard.
-〇 The following briefly describes the motherboard.
+---
+
+## Conciseの例
+
+以下に、マザーボードの簡易説明を示す : The following gives a brief description of the motherboard.
+
+以下に、マザーボードについて簡単に説明します。 : The following briefly describes the motherboard.
+
