@@ -2,10 +2,16 @@
 marp: true
 theme: crssrds
 ---
+<!--
+class: cover
+-->
 
-# ガーナへ行ってきました
+# ガーナのことを主観で話す会
 
 ---
+<!--
+class: body
+-->
 
 ## ガーナについて
 
