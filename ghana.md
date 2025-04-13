@@ -6,14 +6,6 @@ theme: crssrds
 class: cover
 -->
 
-# すみません、少しお待ちください <!-- fit -->
-
----
-
-# カメラオフでOKです、お気軽に <!-- fit -->
-
----
-
 # ガーナのことを主観で話す会
 
 ---
@@ -47,7 +39,7 @@ JAL便がよかった
 
 ---
 
-## 経済・
+## 経済・社会
 - 2022年12月、事実上のデフォルト（債務不履行）
 - 物価：国産のものは安いが、輸入品は高い（スーパーで売ってるものの多くが輸入品）
 - 治安: 比較的安全（アフリカの他の国だと少しの外出が禁止されるところもあるとか）
@@ -59,15 +51,13 @@ JAL便がよかった
   - 雨季: 4月〜10月
   - 乾季: 11月〜3月
   - 2月～4月が最も暑く8月が最も涼しい
-- 自然: サバンナ、熱帯雨林、海岸線
 
 ---
 
 ## 交通
 - 道路: アクラを中心に整備されている
-- 鉄道: アクラとテマを結ぶ路線がある
+- 鉄道: アクラ周辺のみ
 - 空港: コトカ国際空港（アクラ）
-- 港: テマ港、アクラ港
 - 公共交通: バス、タクシー、オートバイタクシー
 
 ---
@@ -82,9 +72,8 @@ JAL便がよかった
 
 ## 教育
 - 教育制度: 6-3-3制
-- 教育年齢: 6歳から15歳まで義務教育
 - 教育機関: 小学校、中学校、高校、大学
-- 大学: アクラ大学、ケペ国立大学、ガーナ工科大学
+- 大学: アクラ大学、ガーナ工科大学
 - [ガーナにおける教育制度の概要｜海外展開のヒント集｜日本型教育の海外展開（EDU-Portニッポン）](https://www.eduport.mext.go.jp/journal/needs-seeds/ghana_2024-2/)
 
 ---
@@ -97,4 +86,10 @@ JAL便がよかった
 
 ---
 
-# 雑感を話します
+## 動画・写真
+
+- [アクラ市内を車窓から１ - YouTube](https://www.youtube.com/watch?v=LEvzFWkTKSQ)
+- [アクラ市内を車窓から2 - YouTube](https://www.youtube.com/watch?v=xGkVnCONSYU)
+- [ホテルの窓から - YouTube](https://www.youtube.com/shorts/5ckNjLXANWs)
+- [2025.03.29 Back to Your Village Food Festival @ Accra - YouTube](https://www.youtube.com/shorts/zuJ9bXBqexI)
+- [Google Photos 2025.03-04 Ghana](https://photos.app.goo.gl/v67wBHX5Db89EmL57)
