@@ -6,6 +6,9 @@ theme: crssrds
 class: cover
 -->
 
+# カメラオフでOKです、お気軽に <!-- fit -->
+---
+
 # ガーナのことを主観で話す会
 
 ---
