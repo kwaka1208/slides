@@ -13,7 +13,7 @@ class: cover
 # 気をつけて欲しいことメモ
 **テクニカルドキュメンテーションII**
 
-2025.04.19 Kenichi Wakabayashi
+2025.04.25 Kenichi Wakabayashi
 
 ---
 <!--
