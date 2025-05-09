@@ -2,13 +2,12 @@
 marp: true
 theme: crssrds
 title: 正論ぽいのに説得力のない人が議論に使う最強の詭弁術４選
-
 author: Kenichi Wakabayashi
 date: 2025.05.09
 footer: "CC-BY-SA crssrds.jp"
 ---
 
-# 議論に使う最強の詭弁術４選
+# 議論に使う最強の詭弁術４選<!-- fit -->
 
 ---
 
