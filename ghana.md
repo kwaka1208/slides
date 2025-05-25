@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: crssrds
 ---
 <!--
@@ -12,8 +12,6 @@ class: cover
 <!--
 class: body
 -->
-## 私が見たガーナ（局所的事実）
----
 
 ## ガーナについて
 
@@ -67,12 +65,13 @@ JAL便がよかった
 ## 交通（車）
 - 車の運転: 右側通行
 - 車両: 日本車、韓国車、中国車が多い
-- 道路状況: 良好な部分と悪路が混在（悪路が多い）
+- 道路状況: 良好な部分と悪路が混在
 - 交通ルール: 信号機が少ない、優先道路が不明確、入れるところに入るスタイル
 
 ---
 
 ## 教育
+- 教育制度: 6-3-3制
 - 教育機関: 小学校、中学校、高校、大学
 - 大学: アクラ大学、ガーナ工科大学
 - [ガーナにおける教育制度の概要｜海外展開のヒント集｜日本型教育の海外展開（EDU-Portニッポン）](https://www.eduport.mext.go.jp/journal/needs-seeds/ghana_2024-2/)
@@ -87,10 +86,6 @@ JAL便がよかった
 
 ---
 
-![bg right:40%](/images/ghana/01.jpg)
-
----
-
 ## 動画・写真
 
 - [アクラ市内を車窓から１ - YouTube](https://www.youtube.com/watch?v=LEvzFWkTKSQ)
@@ -98,24 +93,3 @@ JAL便がよかった
 - [ホテルの窓から - YouTube](https://www.youtube.com/shorts/5ckNjLXANWs)
 - [2025.03.29 Back to Your Village Food Festival @ Accra - YouTube](https://www.youtube.com/shorts/zuJ9bXBqexI)
 - [Google Photos 2025.03-04 Ghana](https://photos.app.goo.gl/v67wBHX5Db89EmL57)
-
----
-
-## 私が感じたガーナ（主観）
-
----
-
-### 経済格差
-
----
-
-### 教育格差
-
----
-
-### 日本の歴史とガーナの歴史
-
----
-
-### ガーナの人々
-
